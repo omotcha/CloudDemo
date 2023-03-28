@@ -8,6 +8,7 @@
         <module>provider-service</module>
         <module>consumer-service</module>
         <module>config-service</module>
+        <module>sentinel-service</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
